@@ -25,7 +25,7 @@ Additionally, noBIM can export the data to other file formats such as CSV, Excel
 
 It's important to note that while this method does not require the use of API or plugins, and doesn't need to use any BIM software, it may require some knowledge of python and data analysis skills.
 
-![enter image description here](https://opendatabim.io/wp-content/uploads/2023/01/JPEG-from-Revit-3.gif)
+![screenshot](https://opendatabim.io/wp-content/uploads/2023/01/JPEG-from-Revit-3.gif)
 
 ## How To Use
 
