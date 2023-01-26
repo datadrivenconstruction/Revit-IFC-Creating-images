@@ -24,6 +24,7 @@ With noBIM, you can extract data such as element IDs, coordinates, and material 
 Additionally, noBIM can export the data to other file formats such as CSV, Excel, or JSON, that can be easily imported into other data visualization software or even web applications.
 
 It's important to note that while this method does not require the use of API or plugins, and doesn't need to use any BIM software, it may require some knowledge of python and data analysis skills.
+![image opendatabim](https://opendatabim.io/wp-content/uploads/2023/01/JPEG-from-Revit-1.gif)
 
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2023/01/JPEG-from-Revit.gif)
 
