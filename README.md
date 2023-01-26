@@ -61,7 +61,6 @@ This software uses the following open source packages:
 - [Pandas](http://electron.atom.io/)
 - [Matplotlib](https://matplotlib.org)
 
-
 ## You may also like...
 
 - [OpenSource solutions OpenDataBIM](https://opendatabim.io/#practicalsolutions) - Unlock Potential with Free Github Apps
