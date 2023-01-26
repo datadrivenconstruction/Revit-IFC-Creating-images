@@ -64,6 +64,6 @@ This software uses the following open source packages:
 
 ## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [OpenSource solutions OpenDataBIM](https://opendatabim.io/#practicalsolutions) - Unlock Potential with Free Github Apps
+- [noBIM Lite](https://opendatabim.io/index.php/product/opendatabim-converter-kit-lite-version) - OpenDataBIM Kit
 
