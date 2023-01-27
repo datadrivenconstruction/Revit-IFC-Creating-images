@@ -19,6 +19,9 @@
 
 The noBIM tool is a python-based tool that allows for the manipulation of Revit and IFC project data in a simple and user-friendly way. It allows you to read and extract data from Revit and IFC files, and then use the Pandas library to process and analyze the data.
 
+Video on Youtube:
+https://youtu.be/7sKEy4Gle8M
+
 With noBIM, you can extract data such as element IDs, coordinates, and material information from the project file, and then use Pandas to create dataframes and perform operations such as filtering, sorting, and aggregating the data. Once the data is cleaned and organized, you can use the python visualization libraries such as Matplotlib, Seaborn, or Plotly to create graphics such as bar charts, line graphs, and scatter plots.
 
 Additionally, noBIM can export the data to other file formats such as CSV, Excel, or JSON, that can be easily imported into other data visualization software or even web applications.
