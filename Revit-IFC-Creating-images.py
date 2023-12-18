@@ -15,11 +15,11 @@
 
 ###
 # Pipeline:  Converting data via the IDE
-# URI: https://opendatabim.io/
+# URI: https://DataDrivenConstruction.io/
 # Description: Determination by parameter in the group model, to find CO2 emissions
 # Input:  collada files, Table
 # Output: CO2 table, collada files
-# OpenDataBIM
+# DataDrivenConstruction
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -32,10 +32,10 @@ import time
 ############################   Parameters    ############################
 
 # path to noBIM converter
-path_conv = r'C:\OpenDataBIM\ODBLite\ODB_noBIM_Lite_v1_3\\'
+path_conv = r'C:\DataDrivenConstruction\ODBLite\ODB_noBIM_Lite_v1_3\\'
 
 # path to files
-path = r'C:\OpenDataBIM\DATA\Sample\Data\Revit\\'
+path = r'C:\DataDrivenConstruction\DATA\Sample\Data\Revit\\'
 # output path
 outpath = path
 
@@ -83,9 +83,9 @@ import matplotlib.pyplot as plt
 #to work without running Revit and API you need to download the noBIM Lite
 
 # path to noBIM converter
-path_conv = r'C:\OpenDataBIM\ODBLite\noBIM_Lite_v1_23-v2jfja\\'
+path_conv = r'C:\DataDrivenConstruction\ODBLite\noBIM_Lite_v1_23-v2jfja\\'
 # path to files
-path = r'C:\OpenDataBIM\DATA\Sample\Revit\\'
+path = r'C:\DataDrivenConstruction\DATA\Sample\Revit\\'
 # output path
 outpath = path
 
@@ -115,5 +115,5 @@ for file in os.listdir(path):
 
 
 # More examples are on the website:
-# https://opendatabim.io/index.php/data-handling-in-construction/
+# https://DataDrivenConstruction.io/index.php/data-handling-in-construction/
 
